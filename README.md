@@ -1,1 +1,3 @@
 Online Student Boshqaruv tizimi
+ 
+ 
