@@ -1,1 +1,1 @@
-# online_student_affairs
+Online Student Boshqaruv tizimi
